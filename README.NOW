@@ -1,0 +1,58 @@
+************************************************************************
+*                                                                      *
+* File:    LSTBX1.EXE                                                  *
+* Subject: OS/2 Developer Magazine article, "A List Box Replacement"   *
+*          in the Jan/Feb '94 issue.                                   *
+* Purpose: Compilable 32-Bit listbox control source code sample        *
+*          and test routine for IBM CSET/2, IBM C Set++,               *
+*          WATCOM C/C++32, Borland C++ for OS/2, and Zortech           *
+*          C++ for OS/2 compilers.                                     *
+* Date:    January 7, 1994                                             *
+* Authors: Matt Smith, Prominare Inc.                                  *
+*          Mark Benge, IBM Software Solutions                          *
+*                                                                      *
+************************************************************************
+
+************************************************************************
+*                     DISCLAIMER OF WARRANTIES.                        *
+************************************************************************
+************************************************************************
+*     The following [enclosed] code is source code created by the      *
+*     authors.  This source code is  provided to you solely            *
+*     for the purpose of assisting you in the development of your      *
+*     applications.  The code is provided "AS IS", without             *
+*     warranty of any kind.  The authors shall not be liable           *
+*     for any damages arising out of your use of the source code,      *
+*     even if they have been advised of the possibility of such        *
+*     damages.  It is provided purely for instructional and            *
+*     illustrative purposes.                                           *
+************************************************************************
+
+************************************************************************
+************************************************************************
+*                           SPECIAL NOTE                               *
+************************************************************************
+************************************************************************
+*     The behaviour of this control is similar to that provided        *
+*     by OS/2 PM.  Although it may be based on documentation           *
+*     describing programming interfaces and techniques, it should      *
+*     not be misconstrued that this sample code is an official         *
+*     release of the OS/2 PM control and is supported as such.         *
+************************************************************************
+************************************************************************
+
+We are providing the build files for Zortech C++ for OS/2 Version 3.1
+even though we were not able to successfully use the DLL.  At this time,
+we have not had a response from Symantec Corp. on how to solve the
+problem.  These files are only provided as a convenience.
+
+
+If you have any questions or comments, please direct them to us AND NOT
+IBM.  This control is NOT supported by IBM's PSP Group.  Thanks and stay
+tuned 'cause more fun with the control is on its way.
+
+Mark Benge
+Matt Smith
+
+
+

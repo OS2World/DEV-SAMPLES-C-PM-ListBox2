@@ -1,0 +1,9 @@
+
+LIBRARY         Listbox INITINSTANCE
+
+DESCRIPTION    '32-Bit List Box Replacement'
+
+DATA         MULTIPLE NONSHARED
+EXETYPE        OS2
+
+EXPORTS        fRegisterListBox @ 1

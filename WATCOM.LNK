@@ -1,0 +1,7 @@
+file Listbox.Obj
+file EventMgr.Obj
+file heapmgr.Obj
+file listmgr.Obj
+file TraffMgr.Obj
+name ListBox.Dll
+@WATCOM.Def

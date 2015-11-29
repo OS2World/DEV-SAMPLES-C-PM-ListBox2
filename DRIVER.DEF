@@ -1,0 +1,13 @@
+
+NAME            Driver WINDOWAPI
+
+DESCRIPTION	'32-Bit List Box Replacement Driver application'
+
+CODE	        MOVEABLE
+DATA	        MULTIPLE MOVEABLE
+
+STACKSIZE	16384
+
+PROTMODE
+
+EXETYPE		OS2

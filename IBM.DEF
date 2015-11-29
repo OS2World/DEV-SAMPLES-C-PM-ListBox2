@@ -1,0 +1,13 @@
+
+LIBRARY         Listbox INITINSTANCE TERMINSTANCE 
+
+DESCRIPTION    '32-Bit List Box Replacement'
+
+CODE         MOVEABLE
+DATA         MULTIPLE NONSHARED MOVEABLE
+
+PROTMODE
+
+EXETYPE        OS2
+
+EXPORTS        fRegisterListBox @ 1

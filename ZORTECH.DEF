@@ -1,0 +1,12 @@
+
+LIBRARY         Listbox INITINSTANCE TERMINSTANCE
+
+DESCRIPTION    '32-Bit List Box Replacement'
+
+DATA         MULTIPLE NONSHARED
+
+PROTMODE
+
+EXETYPE        OS/2 2.x
+
+EXPORTS        fRegisterListBox @ 1
